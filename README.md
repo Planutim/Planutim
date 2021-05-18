@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Planutim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react+asp.net.core
+- 🌱 I’m currently learning opengl
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me http://t.me/eightyonetogo
 <!---
