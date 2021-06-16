@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Planutim
-- 👀 I’m interested in web development
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning opengl
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me http://t.me/eightyonetogo
